@@ -2,7 +2,7 @@
 
 Este é um projeto do curso de HTML e CSS da Alura onde fazemos um site responsivo com a técnica 'Mobile First'.
 
-![Banner preview do site](Banner.PNG)
+![Banner preview do site](banner.PNG)
 
 ## Descrição do Projeto
 
